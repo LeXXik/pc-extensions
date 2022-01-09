@@ -6,6 +6,6 @@ Open URL to install script. Requires browser extension: https://violentmonkey.gi
 # New Hotkeys:
 - https://lexxik.github.io/pc-extensions/src/hotkeys.user.js
 
--    ESC to cancel any current viewport selection.
+-    ESC to clear any current selection.
 
 MIT license.
