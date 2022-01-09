@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 /**
- * ESC to cancel current viewport selection
+ * ESC to clear any current selection
  */
 editor.once('load', function () {
     'use strict';
