@@ -1,9 +1,13 @@
 # pc-extensions
 Convenience scripts for PlayCanvas Editor.
 
-Open URL to install script. Requires browser extension: https://violentmonkey.github.io/
+Open extension URL to install script. Requires browser extension: https://violentmonkey.github.io/
 
-# New Hotkeys:
+# Selection Lock
+- https://lexxik.github.io/pc-extensions/src/hotkeys.user.js
+-    Allows to lock what can be selected from the Editor viewport.
+
+# Hotkeys:
 - https://lexxik.github.io/pc-extensions/src/hotkeys.user.js
 
 -    ESC to clear any current selection.
